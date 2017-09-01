@@ -42,7 +42,7 @@ checkout文件层面的操作：
 reset文件层面的操作：
 主要对暂存区起作用。
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
 
 Git鼓励大量使用分支：
 
